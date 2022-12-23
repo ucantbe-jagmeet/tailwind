@@ -23,7 +23,7 @@ const index = () => {
                   <h1 className="ml-3"> Jasmeet Singh</h1>
                 </header>
                 <p className=" h-auto py-5 max-h-min w-[90%] mx-auto ">
-                  Lorem ipsum dolor sit amet consectetur,
+                  Lorem ipsum dolor sit amet consecteturds,
                 </p>
               </section>
             </li>
